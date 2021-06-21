@@ -26,7 +26,7 @@ SECRET_KEY = 'django-insecure-fvu$+sdvdiux+sqxsbo2kal1o$x3(gq#e6(c*c8hfui^r3l9*_
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ["https://djangotodolisttest.herokuapp.com/"]
 
 
 # Application definition
